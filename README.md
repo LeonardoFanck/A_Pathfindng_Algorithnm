@@ -1,3 +1,3 @@
-# blueBoyAdventure
+# A_Pathfindng_Algorithnm
 
-Jogos em desenvolvimento acompanhando a série de vídeo do canal: https://www.youtube.com/@RyiSnow
+Algoritmo criado acompanhando o vídeo do canal: https://www.youtube.com/@RyiSnow
